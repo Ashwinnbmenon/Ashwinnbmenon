@@ -28,7 +28,7 @@
 - **Email:** [ashwinnbmenon58@gmail.com](mailto:ashwinnbmenon58@gmail.com)  
 - **LinkedIn:** [ashwinn-b-menon](https://linkedin.com/in/ashwinn-b-menon)  
 - **Instagram:** [motor_cruiser](https://instagram.com/motor_cruiser)  
-- **YouTube:** [Channel](https://www.youtube.com/channel/UC9kw9in103E4wbCL-RR91NA)
+- **YouTube:** [Channel](https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA)
 
 ### 👨‍💻 My Resume
 - [View PDF](https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view)
