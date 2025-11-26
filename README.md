@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ASHWINN B MENON 🛡️💻</h1>
+<h1 align="center">Hi, I'm ASHWINN B MENON </h1>
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
 
