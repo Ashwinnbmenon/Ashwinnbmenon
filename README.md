@@ -5,7 +5,7 @@
 
 ---
 
-## 🎨 About Me
+## 🧑‍🎓 About Me
 
 Hi! I'm **Ashwinn B Menon**, a dedicated **Frontend Developer** and an enthusiastic learner in **Cybersecurity and Ethical Hacking**.  
 I focus on creating **high-quality, user-centered interfaces**, building **efficient and scalable web experiences**,  
@@ -29,7 +29,7 @@ and continuously expanding my expertise in **application security, penetration t
 
 
 
-## 🏆 Achievements
+## 🎖️ Achievements
 
 <p align="center">
   <a href="https://github.com/ashwinnbmenon">
@@ -114,8 +114,11 @@ https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical" />
+  
+  <img width="49%" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -123,10 +126,10 @@ https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical&hide_border=true" />
+  <img width="60%" 
+       src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
