@@ -2,8 +2,9 @@
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
 <p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://img.shields.io/badge/Profile%20Views-👀-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
   <br><br>
 
