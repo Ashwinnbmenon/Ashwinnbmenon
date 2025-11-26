@@ -1,18 +1,16 @@
-<h1 align="center">Hi, I'm ASHWINN B MENON </h1>
+<h1 align="center">Hi, I'm ASHWINN B MENON</h1>
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
 <p align="center">
+  <!-- Profile Views Badge -->
+  <img src="https://img.shields.io/badge/Profile%20Views-👀-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
 
-<!-- Profile Views Badge -->
-<img src="https://img.shields.io/badge/Profile%20Views-👀-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
+  <br><br>
 
-<br><br>
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ashwinnbmenon" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</a>
-
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ashwinnbmenon" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -58,17 +56,33 @@
 </p>
 
 ---
+
 <h3 align="left">Projects</h3>
 
-| Sl No | Project Name | Description | Link |
-|-------|--------------|-------------|------|
-| 1     | Portfolio Website | Personal portfolio to showcase my work and skills | [View](https://ashwinnbmenonportfolio.vercel.app/) |
-| 2     | Cybersecurity Lab | Lab environment for practicing ethical hacking and penetration testing | [View](https://github.com/ashwinnbmenon/cybersecurity-lab) |
-| 3     | E-commerce Web App | Full-stack web application built with NodeJS, React, and MongoDB | [View](https://github.com/ashwinnbmenon/ecommerce-app) |
-| 4     | Task Manager App | Web app for managing daily tasks using VueJS and Firebase | [View](https://github.com/ashwinnbmenon/task-manager) |
+| Sl No | Project Name        | Description                                                         | Link |
+|-------|-------------------|---------------------------------------------------------------------|------|
+| 1     | Portfolio Website  | Personal portfolio to showcase my work and skills                  | [View](https://ashwinnbmenonportfolio.vercel.app/) |
+| 2     | Cybersecurity Lab  | Lab environment for practicing ethical hacking and penetration testing | [View](https://github.com/ashwinnbmenon/cybersecurity-lab) |
+| 3     | E-commerce Web App | Full-stack web application built with NodeJS, React, and MongoDB    | [View](https://github.com/ashwinnbmenon/ecommerce-app) |
+| 4     | Task Manager App   | Web app for managing daily tasks using VueJS and Firebase          | [View](https://github.com/ashwinnbmenon/task-manager) |
 
--------
-<h3 align="left">📊 GitHub Stats</h3> <p align="left" style="display:flex; gap:20px; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" style="border-radius:10px;"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" style="border-radius:10px;"/> </p>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+  <!-- Total Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       width="49%" 
+       style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical&hide_border=true" 
+       alt="GitHub Streak" 
+       width="49%" 
+       style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+</p>
 
 ---
 
