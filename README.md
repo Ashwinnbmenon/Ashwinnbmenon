@@ -61,10 +61,10 @@
 
 | Sl No | Project Name        | Description                                                         | Link |
 |-------|-------------------|---------------------------------------------------------------------|------|
-| 1     | Portfolio Website  | Personal portfolio to showcase my work and skills                  | [View](https://ashwinnbmenonportfolio.vercel.app/) |
-| 2     | Cybersecurity Lab  | Lab environment for practicing ethical hacking and penetration testing | [View](https://github.com/ashwinnbmenon/cybersecurity-lab) |
-| 3     | E-commerce Web App | Full-stack web application built with NodeJS, React, and MongoDB    | [View](https://github.com/ashwinnbmenon/ecommerce-app) |
-| 4     | Task Manager App   | Web app for managing daily tasks using VueJS and Firebase          | [View](https://github.com/ashwinnbmenon/task-manager) |
+| 1     | x  | x | [View](x) |
+| 2     | x  | x | [View](x) |
+| 3     | x | x  | [View](x) |
+| 4     | x | x  | [View](x) |
 
 ---
 <h2 align="center">📊 GitHub Stats</h2>
