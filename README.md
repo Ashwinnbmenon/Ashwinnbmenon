@@ -72,11 +72,18 @@
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-<!-- Total Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
-     alt="GitHub Stats" 
-     width="49%" 
-     style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Ashwinn%20B%20Menon%20Stats&width=800&height=250" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-12-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits%20(Public)-320-ff007f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-18-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Following-10-39ff14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars%20Received-5-f7b500?style=for-the-badge" />
+</p>
+
 
 <!-- Streak Card -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" 
