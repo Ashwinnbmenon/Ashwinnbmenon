@@ -68,10 +68,22 @@
 | 4     | Task Manager App | Web app for managing daily tasks using VueJS and Firebase | [View](https://github.com/ashwinnbmenon/task-manager) |
 
 -------
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" />
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       width="48%" 
+       style="border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical&hide_border=false" 
+       alt="GitHub Streak" 
+       width="48%" 
+       style="border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" />
+
 </p>
 
 ---
