@@ -48,9 +48,8 @@ and continuously expanding my expertise in **application security, penetration t
 ## 📚 Currently Learning
 
 ### 🔹 Frontend  
-- ReactJS  
-- VueJS  
-- GSAP Animations  
+- ReactJS
+- python  
 - TailwindCSS  
 - Next.js  
 
