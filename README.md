@@ -2,9 +2,16 @@
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
 
-  <!-- GitHub Trophies -->
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
   <a href="https://github.com/ashwinnbmenon" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon
+    &theme=glass
+    &no-frame=true
+    &column=3
+    &margin-w=20" 
+    alt="GitHub Trophies" />
   </a>
 </p>
 
