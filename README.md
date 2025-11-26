@@ -68,21 +68,10 @@
 | 4     | x | x  | [View](x) |
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+</div>
 
-<p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Ashwinn%20B%20Menon%20Stats&width=800&height=250" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits%20(Public)-320-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-18-00d9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Following-10-39ff14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars%20Received-5-f7b500?style=for-the-badge" />
-</p>
 
 
 <!-- Streak Card -->
