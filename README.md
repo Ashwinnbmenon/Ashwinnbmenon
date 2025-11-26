@@ -72,7 +72,7 @@
   <a href="https://instagram.com/motor_cruiser" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC9kw9in103E4wbCL-RR91NA" target="_blank">
+  <a href="https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
 </p>
