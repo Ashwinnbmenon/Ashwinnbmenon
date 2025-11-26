@@ -107,29 +107,25 @@ https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
 | 3 | Weather App | API-based real-time weather app | [View](#) |
 | 4 | Car Mods UI | Fully animated car mod UI concept | [View](#) |
 
-*(You can replace with real projects later)*
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical" />
-  
-  <img width="49%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical" />
+
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
+
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
+
 </p>
+
 
 ---
-
-## 🔥 Streak Stats
-
 <p align="center">
-  <img width="60%" 
-       src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" />
 </p>
-
 
 ## 🌐 Connect With Me
 
