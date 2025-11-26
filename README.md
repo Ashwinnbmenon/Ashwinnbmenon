@@ -65,8 +65,9 @@ and continuously expanding my expertise in **application security, penetration t
 - Ethical Hacking 🔐  
 - Network Security 🛡  
 - Web App Security 🐞  
-- React / Vue Frontend Dev  
-- Smooth Animations ✨  
+- React / Vue Frontend Dev
+- css / python  
+
 
 ---
 
