@@ -81,7 +81,7 @@ and continuously expanding my expertise in **application security, penetration t
 
 ## 🧾 My Resume  
 📄 **View PDF**  
-https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
+file:///C:/kannan/imp/ashwinn%20b%20menon%20resume.pdf
 
 ---
 
