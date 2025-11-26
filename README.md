@@ -101,10 +101,10 @@ https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
 
 | Sl No | Project Name | Description | Link |
 |------|---------------|-------------|------|
-| 1 | Portfolio Website | Personal interactive portfolio using React & GSAP | [View](https://ashwinnbmenonportfolio.vercel.app/) |
-| 2 | CyberSec Toolkit | Ethical hacking tools & automation scripts | [View](#) |
-| 3 | Weather App | API-based real-time weather app | [View](#) |
-| 4 | Car Mods UI | Fully animated car mod UI concept | [View](#) |
+| 1 | x |x| [View](#) |
+| 2 | x| x | [View](#) |
+| 3 |x | x| [View](#) |
+| 4 | x |x | [View](#) |
 
 
 ---
