@@ -2,14 +2,31 @@
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="center" style="display:flex; flex-direction:column; gap:15px; align-items:center;">
 
-<p align="center">
-  <a href="https://github.com/ashwinnbmenon">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical" alt="GitHub Trophies" />
+  <!-- Profile Views -->
+  <span style="background: linear-gradient(135deg, #6a11cb, #2575fc); 
+               padding:10px 20px; 
+               border-radius:25px; 
+               color:white; 
+               font-weight:bold; 
+               font-size:16px; 
+               box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=ffffff&style=flat-square" 
+         alt="Profile Views" 
+         style="vertical-align:middle; margin-right:8px;"/> 
+    Profile Views
+  </span>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ashwinnbmenon" target="_blank" 
+     style="display:inline-block; border-radius:15px; overflow:hidden; 
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" 
+         alt="GitHub Trophies" 
+         style="border-radius:15px; display:block;"/>
   </a>
+
 </p>
 
 ---
