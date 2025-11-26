@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm ASHWINN B MENON 🛡️💻</h1>
-<h3 align="center">Crafting stunning web experiences & exploring the world of ethical hacking</h3>
+<h1 align="center">Hi, I'm ASHWINN B MENON </h1>
+<h3 align="center">Crafting stunning web experiences & learning cybersecurity & ethical hacking | Currently a student</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
