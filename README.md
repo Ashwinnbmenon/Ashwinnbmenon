@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ASHWINN B MENON</h1>
-<h3 align="center">A passionate Frontend Developer & Cybersecurity Enthusiast from India</h3>
+<h1 align="center">Hi, I'm ASHWINN B MENON 🛡️💻</h1>
+<h3 align="center">Crafting stunning web experiences & exploring the world of ethical hacking</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -28,7 +28,8 @@
 - **Email:** [ashwinnbmenon58@gmail.com](mailto:ashwinnbmenon58@gmail.com)  
 - **LinkedIn:** [ashwinn-b-menon](https://linkedin.com/in/ashwinn-b-menon)  
 - **Instagram:** [motor_cruiser](https://instagram.com/motor_cruiser)  
-- **YouTube:** [Channel](https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA)
+-**YouTube:** [My Channel](https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA)
+
 
 ### 👨‍💻 My Resume
 - [View PDF](https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view)
