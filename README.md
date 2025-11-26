@@ -1,50 +1,19 @@
 <h1 align="center">Hi, I'm ASHWINN B MENON </h1>
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
+<p align="center">
 
-<p align="center" style="display:flex; flex-direction:column; gap:20px; align-items:center;">
+<!-- Profile Views Badge -->
+<img src="https://img.shields.io/badge/Profile%20Views-👀-brightgreen?style=for-the-badge&logo=github" alt="Profile Views" />
 
-  <!-- Animated Profile Views -->
-  <span style="background: linear-gradient(270deg, #ff6ec4, #7873f5, #42f5ef, #ff6ec4);
-               background-size: 600% 600%;
-               animation: gradientAnimation 8s ease infinite;
-               padding:12px 25px; 
-               border-radius:30px; 
-               color:white; 
-               font-weight:bold; 
-               font-size:16px; 
-               box-shadow: 0 6px 20px rgba(0,0,0,0.35);
-               display:flex;
-               align-items:center;
-               gap:10px;">
-    <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=ffffff&style=flat-square" 
-         alt="Profile Views" 
-         style="height:24px;"/>
-    Profile Views
-  </span>
+<br><br>
 
-  <!-- GitHub Trophies with Hover Effect -->
-  <a href="https://github.com/ashwinnbmenon" target="_blank" 
-     style="display:inline-block; border-radius:20px; overflow:hidden; 
-            box-shadow: 0 6px 25px rgba(0,0,0,0.35); transition: transform 0.3s ease;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" 
-         alt="GitHub Trophies" 
-         style="border-radius:20px; display:block;"/>
-  </a>
+<!-- GitHub Trophies -->
+<a href="https://github.com/ashwinnbmenon" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</a>
 
 </p>
-
-<style>
-@keyframes gradientAnimation {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-}
-
-a:hover img {
-    transform: scale(1.08);
-}
-</style>
 
 ---
 
