@@ -67,24 +67,24 @@
 | 4     | Task Manager App   | Web app for managing daily tasks using VueJS and Firebase          | [View](https://github.com/ashwinnbmenon/task-manager) |
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-  <!-- Total Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
-       alt="GitHub Stats" 
-       width="49%" 
-       style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
 
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical&hide_border=true" 
-       alt="GitHub Streak" 
-       width="49%" 
-       style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+<!-- Total Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
+     alt="GitHub Stats" 
+     width="49%" 
+     style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+
+<!-- Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" 
+     alt="GitHub Streak" 
+     width="49%" 
+     style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+
 </p>
 
----
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
