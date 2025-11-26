@@ -68,18 +68,24 @@
 | 4     | x | x  | [View](x) |
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
-</div>
 
 
 
-<!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" 
-     alt="GitHub Streak" 
-     width="49%" 
-     style="border-radius:15px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
-
+<p align="center">
+  <a href="https://github.com/ashwinnbmenon" target="_blank">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical&hide_border=true" 
+      alt="GitHub Streak"
+      width="90%"
+      style="
+        border-radius: 20px;
+        padding: 10px;
+        background: linear-gradient(135deg, #ff004c, #5900ff);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.35);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      "
+    />
+  </a>
 </p>
 
 
