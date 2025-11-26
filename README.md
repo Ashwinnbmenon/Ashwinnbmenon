@@ -75,7 +75,7 @@ and continuously expanding my expertise in **application security, penetration t
 - **Email:** [ashwinnbmenon58@gmail.com](mailto:ashwinnbmenon58@gmail.com)  
 - **LinkedIn:** https://linkedin.com/in/ashwinn-b-menon  
 - **Instagram:** https://instagram.com/motor_cruiser  
-- **YouTube:** https://youtube.com/@motor_cruiser
+- **YouTube:** https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA
 
 ---
 
