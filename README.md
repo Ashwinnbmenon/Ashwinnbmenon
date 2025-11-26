@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashwinnbmenon58@gmail.com**
 
-- 📄 Know about my experiences [[View My Resume (PDF)](https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view)]([View My Resume (PDF)](https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view))
+- 📄 Know about my experiences [[View My Resume (PDF)](https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view)]
 
 - ⚡ Fun fact **My keyboard is my second home**
 
