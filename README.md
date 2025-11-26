@@ -17,7 +17,7 @@
 ### 🔭 Portfolio
 - [ashwinnbmenonportfolio](https://ashwinnbmenonportfolio.vercel.app/)
 
-### 🌱 I’m currently learning
+### 📖 I’m currently learning
 - **Frontend:** ReactJS, VueJS, GSAP, TailwindCSS, Next.js  
 - **Cybersecurity:** Penetration Testing, Ethical Hacking Tools, Linux & Windows Hardening  
 
@@ -55,7 +55,16 @@
 </p>
 
 ---
+<h3 align="left">Projects</h3>
 
+| Sl No | Project Name | Description | Link |
+|-------|--------------|-------------|------|
+| 1     | Portfolio Website | Personal portfolio to showcase my work and skills | [View](https://ashwinnbmenonportfolio.vercel.app/) |
+| 2     | Cybersecurity Lab | Lab environment for practicing ethical hacking and penetration testing | [View](https://github.com/ashwinnbmenon/cybersecurity-lab) |
+| 3     | E-commerce Web App | Full-stack web application built with NodeJS, React, and MongoDB | [View](https://github.com/ashwinnbmenon/ecommerce-app) |
+| 4     | Task Manager App | Web app for managing daily tasks using VueJS and Firebase | [View](https://github.com/ashwinnbmenon/task-manager) |
+
+-------
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical" />
