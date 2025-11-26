@@ -2,17 +2,12 @@
 <h3 align="center">Crafting stunning web experiences & learning cybersecurity & ethical hacking | Currently a student</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<h3 align="center">👁️ Profile Views & 🏆 GitHub Trophies</h3>
+<p align="center" style="display:flex; gap:20px; flex-wrap: wrap; justify-content:center;">
+  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" width="200" style="border-radius:10px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" width="400" style="border-radius:10px;"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashwinnbmenon">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 🔭 Portfolio
 - [ashwinnbmenonportfolio](https://ashwinnbmenonportfolio.vercel.app/)
