@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm ASHWINN B MENON</h1>
 <h3 align="center">Crafting stunning web experiences & exploring the world of cybersecurity & ethical hacking</h3>
 
-<p align="center">
-  <a href="https://github.com/ashwinnbmenon">
-    <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
-
-
-  <br><br>
 
   <!-- GitHub Trophies -->
   <a href="https://github.com/ashwinnbmenon" target="_blank">
