@@ -16,13 +16,13 @@ and continuously expanding my expertise in **application security, penetration t
 <p align="center">
 
   <!-- Author Tag -->
-  <img src="https://img.shields.io/badge/Created%20By-Ashwinn%20B%20Menon-FFB5D9?style=flat-square&logo=github&logoColor=white&labelColor=F8EAF6" />
+  <img src="https://img.shields.io/badge/Created%20By-Ashwinn%20B%20Menon-FFB5D9?style=flat-square&logo=github&logoColor=orange&labelColor=F8EAF6" />
 
   <!-- Web Developer Tag -->
-  <img src="https://img.shields.io/badge/Web%20Developer-Frontend%20%7C%20UI%20%2F%20UX-FFC8DD?style=flat-square&logo=react&logoColor=white&labelColor=F5D7E8" />
+  <img src="https://img.shields.io/badge/Web%20Developer-Frontend%20%7C%20react%20%2F%20python-FFC8DD?style=flat-square&logo=react&logoColor=blue&labelColor=F5D7E8" />
 
   <!-- Cybersecurity Tag -->
-  <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-Pentesting%20%7C%20Security-CDB4DB?style=flat-square&logo=linux&logoColor=white&labelColor=E8D9EF" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-Pentesting%20%7C%20Security-CDB4DB?style=flat-square&logo=linux&logoColor=black&labelColor=E8D9EF" />
 
 </p>
 
@@ -30,11 +30,13 @@ and continuously expanding my expertise in **application security, penetration t
 
 ## 🎖️ Achievements
 
-<p align="center">
-  <a href="https://github.com/ashwinnbmenon">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=20&margin-h=20" />
-  </a>
-</p>
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
+</div>
+
 
 ---
 
