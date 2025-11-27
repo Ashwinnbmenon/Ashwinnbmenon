@@ -26,9 +26,6 @@ and continuously expanding my expertise in **application security, penetration t
 
 ---
 
-
-
-
 ## 🎖️ Achievements
 
 <p align="center">
@@ -48,8 +45,8 @@ and continuously expanding my expertise in **application security, penetration t
 ## 📚 Currently Learning
 
 ### 🔹 Frontend  
-- ReactJS
-- python  
+- ReactJS  
+- Python  
 - TailwindCSS  
 - Next.js  
 
@@ -65,27 +62,27 @@ and continuously expanding my expertise in **application security, penetration t
 - Ethical Hacking 🔐  
 - Network Security 🛡  
 - Web App Security 🐞  
-- React / Vue Frontend Dev
-- css / python  
-
+- React / Vue Frontend Dev  
+- CSS / Python  
 
 ---
 
 ## 📫 Contact Me  
 - **Email:** [ashwinnbmenon58@gmail.com](mailto:ashwinnbmenon58@gmail.com)
-----
 
-##🔗 Professional Profiles
-- **LinkedIn:** https://linkedin.com/in/ashwinn-b-menon
-- **TryHackMr:** https://tryhackme.com/p/ashwinncyber
+---
+
+## 🔗 Professional Profiles
+- **LinkedIn:** https://linkedin.com/in/ashwinn-b-menon  
+- **TryHackMe:** https://tryhackme.com/p/ashwinncyber  
 - **Instagram:** https://instagram.com/motor_cruiser  
-- **YouTube:** https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA
+- **YouTube:** https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA  
 
 ---
 
 ## 🧾 My Resume  
 📄 **View PDF**  
-https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
+https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view  
 
 ---
 
@@ -105,31 +102,30 @@ https://drive.google.com/file/d/1yc3L0raJLkQeuzlD1Uk539lSe5QXO4yW/view
 ## 📂 Projects
 
 | Sl No | Project Name | Description | Link |
-|------|---------------|-------------|------|
-| 1 | x |x| [View](#) |
-| 2 | x| x | [View](#) |
-| 3 |x | x| [View](#) |
-| 4 | x |x | [View](#) |
-
+|------|--------------|-------------|------|
+| 1 | x | x | [View](#) |
+| 2 | x | x | [View](#) |
+| 3 | x | x | [View](#) |
+| 4 | x | x | [View](#) |
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
 
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
 
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
-
 ---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" />
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
