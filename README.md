@@ -79,7 +79,6 @@ and continuously expanding my expertise in **application security, penetration t
 ## 🔗 Professional Profiles
 - **LinkedIn:** https://linkedin.com/in/ashwinn-b-menon  
 - **TryHackMe:** https://tryhackme.com/p/ashwinncyber  
-- **Instagram:** https://instagram.com/motor_cruiser  
 - **YouTube:** https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA  
 
 
