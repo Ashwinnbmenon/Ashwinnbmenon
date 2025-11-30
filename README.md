@@ -111,9 +111,11 @@ and continuously expanding my expertise in **application security, penetration t
 ## 📈 GitHub Stats
 <p align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
+)
+
+ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true
 
 </p>
 
