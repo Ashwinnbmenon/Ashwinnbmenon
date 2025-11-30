@@ -1,6 +1,6 @@
 <!-- Banner (Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=FF6EC7&center=true&vCenter=true&width=900&lines=ASHWINN+B+MENON;Frontend+Developer+%7C+Cybersecurity+Enthusiast;Crafting+Soft+%26+Beautiful+Web+Experiences" alt="ASHWINN B MENON"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=4000&color=FF6EC7&center=true&vCenter=true&width=900&lines=ASHWINN+B+MENON;Frontend+Developer+%7C+Cybersecurity+Enthusiast;Crafting+Soft+%26+Beautiful+Web+Experiences" alt="ASHWINN B MENON"/>
 </p>
 
 ---
@@ -39,15 +39,6 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 ---
 
-## 💬 Ask Me About
-- Ethical Hacking 🔐  
-- Network Security 🛡  
-- Web App Security 🐞  
-- React / Vue Frontend Dev  
-- CSS / Python
-
----
-
 ## 📫 Contact
 - **Email:** [ashwinnbmenon58@gmail.com](mailto:ashwinnbmenon58@gmail.com)
 
@@ -57,17 +48,6 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 - **LinkedIn:** [ashwinn-b-menon](https://linkedin.com/in/ashwinn-b-menon)  
 - **TryHackMe:** [ashwinncyber](https://tryhackme.com/p/ashwinncyber)  
 - **YouTube:** [channel](https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA)
-
----
-
-## 🎓 Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Analytics-Certificate-FA7343?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-Display%20Certification-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Display"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-Video%20Certification-34A853?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Video"/>
-  <img src="https://img.shields.io/badge/National%20Level%20Tech%20Fest-RCSS%20Ernakulam-DB4437?style=for-the-badge&logo=google-scholar&logoColor=white" alt="RCSS"/>
-  <img src="https://img.shields.io/badge/Zoople-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Zoople Flutter"/>
-</p>
 
 ---
 
@@ -118,6 +98,17 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 ---
 
+## 🎓 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Analytics-Certificate-FA7343?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-Display%20Certification-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Display"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-Video%20Certification-34A853?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Video"/>
+  <img src="https://img.shields.io/badge/National%20Level%20Tech%20Fest-RCSS%20Ernakulam-DB4437?style=for-the-badge&logo=google-scholar&logoColor=white" alt="RCSS"/>
+  <img src="https://img.shields.io/badge/Zoople-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Zoople Flutter"/>
+</p>
+
+---
+
 ## 📂 Projects
 
 | Sl No | Project Name | Description | Link |
@@ -146,15 +137,15 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinnbmenon&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinnbmenon&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
-
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
+
 
 ---
 
