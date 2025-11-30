@@ -111,21 +111,35 @@ and continuously expanding my expertise in **application security, penetration t
 ## 📈 GitHub Stats
 <p align="center">
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
 
-)
-
- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
 ---
 
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinnbmenon&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" />
 </p>
 
 ---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinnbmenon&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&style=flat-square&color=blue" />
+</p>
+
 
 ## 🌐 Connect With Me
 
