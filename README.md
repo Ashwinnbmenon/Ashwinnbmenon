@@ -7,12 +7,11 @@
 
 
 ## 🧑‍🎓 About Me
-Hi! I'm **Ashwinn B Menon**, a dedicated **Frontend Developer** and an enthusiastic learner in **Cybersecurity and Ethical Hacking**. I focus on creating **high-quality, user-centered interfaces**, building **efficient and scalable web experiences**, and continuously expanding my expertise in **application security, penetration testing, and secure development practices**.
-
+I'm **Ashwinn B Menon**, a dedicated **Frontend Developer** and an enthusiastic learner in **Cybersecurity and Ethical Hacking**. I focus on creating **high-quality, user-centered interfaces**, building **efficient and scalable web experiences**, and continuously expanding my expertise in **application security, penetration testing, and secure development practices**.
 <p align="center">
-  <img src="https://img.shields.io/badge/Created%20By-Ashwinn%20B%20Menon-FFB5D9?style=flat-square&logo=github&logoColor=orange&labelColor=F8EAF6" alt="Author"/>
-  <img src="https://img.shields.io/badge/Web%20Developer-Frontend%20%7C%20React%20%2F%20Python-FFC8DD?style=flat-square&logo=react&logoColor=blue&labelColor=F5D7E8" alt="Web Developer"/>
-  <img src="https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacking-Pentesting%20%7C%20Security-CDB4DB?style=flat-square&logo=linux&logoColor=black&labelColor=E8D9EF" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Created%20By-Ashwinn%20B%20Menon-FFB5D9?style=for-the-badge&logo=github&logoColor=orange" alt="Author"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Python-FFC8DD?style=for-the-badge&logo=react&logoColor=blue" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Pentesting%20%7C%20Security-CDB4DB?style=for-the-badge&logo=linux&logoColor=black" alt="Cybersecurity"/>
 </p>
 
 ---
@@ -80,22 +79,22 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 ## 📊 Skill Bars
 
 **Cybersecurity**  
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜ — 85%
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜ — 85%
 
 **Python**  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ — 75%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ — 75%
 
 **Networking**  
-🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ — 60%
+🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ — 60%
 
 **JavaScript / React**  
-🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ — 60%
+🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ — 60%
 
 **Linux**  
-🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ — 53%
+🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ — 53%
 
 **Frontend Development**  
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ — 45%
+🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ — 45%
 
 ---
 
