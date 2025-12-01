@@ -77,7 +77,7 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 ---
 
-## 💼 Professional Skills
+## 💼 Skills
 
 ### 🔐 Cybersecurity
 ▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  
