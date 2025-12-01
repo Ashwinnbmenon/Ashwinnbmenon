@@ -136,8 +136,12 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
