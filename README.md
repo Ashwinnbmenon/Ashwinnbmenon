@@ -76,32 +76,15 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 </p>
 
 ---
-
 ## 💼 Skills
 
-### 🔐 Cybersecurity
-▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯  
-**Level:** Advanced (85%)
+- 🔐 **Cybersecurity** — ![](https://img.shields.io/badge/85%25-blueviolet)
+- 🐍 **Python** — ![](https://img.shields.io/badge/75%25-blue)
+- 🌐 **Networking** — ![](https://img.shields.io/badge/60%25-green)
+- ⚛️ **JavaScript / React** — ![](https://img.shields.io/badge/60%25-orange)
+- 🐧 **Linux** — ![](https://img.shields.io/badge/53%25-grey)
+- 🎨 **Frontend Development** — ![](https://img.shields.io/badge/45%25-pink)
 
-### 🐍 Python
-▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯  
-**Level:** Proficient (75%)
-
-### 🌐 Networking
-▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  
-**Level:** Intermediate (60%)
-
-### ⚛️ JavaScript / React
-▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯  
-**Level:** Intermediate (60%)
-
-### 🐧 Linux
-▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯  
-**Level:** Intermediate (53%)
-
-### 🎨 Frontend Development
-▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯  
-**Level:** Growing (45%)
 
 ---
 
