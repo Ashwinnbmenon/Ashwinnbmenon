@@ -5,9 +5,9 @@
 
 ---
 
-
 ## 🧑‍🎓 About Me
-I'm **Ashwinn B Menon**, a dedicated **Frontend Developer** and an enthusiastic learner in **Cybersecurity and Ethical Hacking**. I focus on creating **high-quality, user-centered interfaces**, building **efficient and scalable web experiences**, and continuously expanding my expertise in **application security, penetration testing, and secure development practices**.
+Hi — I'm **Ashwinn B Menon**, a Frontend Developer with a strong interest in **Cybersecurity** and **Ethical Hacking**. I build user-centered interfaces and work on improving application security through secure development and pentesting skills.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Created%20By-Ashwinn%20B%20Menon-FFB5D9?style=for-the-badge&logo=github&logoColor=orange" alt="Author"/>
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Python-FFC8DD?style=for-the-badge&logo=react&logoColor=blue" alt="Frontend"/>
@@ -24,15 +24,14 @@ I'm **Ashwinn B Menon**, a dedicated **Frontend Developer** and an enthusiastic 
 ---
 
 ## 🚀 Portfolio
-🔗 **Portfolio Website:**  
-👉 [ashwinnbmenonportfolio.vercel.app](https://ashwinnbmenonportfolio.vercel.app/)
+**Website:** [ashwinnbmenonportfolio.vercel.app](https://ashwinnbmenonportfolio.vercel.app/)
 
 ---
 
 ## 📚 Currently Learning
 
 **Frontend**  
-ReactJS · Next.js · TailwindCSS · Modern JS
+React · Next.js · Tailwind CSS · Modern JavaScript
 
 **Cybersecurity**  
 Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabilities
@@ -48,47 +47,35 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 <p align="left">
   <a href="https://linkedin.com/in/ashwinn-b-menon">
-    <img src="https://img.shields.io/badge/LinkedIn-Click%20Here-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <br/>
-
   <a href="https://tryhackme.com/p/ashwinncyber">
-    <img src="https://img.shields.io/badge/TryHackMe-Click%20Here-b30000?style=for-the-badge&logo=tryhackme" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-b30000?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
   </a>
   <br/>
-
   <a href="https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA">
-    <img src="https://img.shields.io/badge/YouTube-Click%20Here-FF0000?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tools & Tech
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
-
-<p align="center">
-  <!-- Security & Tools -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ---
+
 ## 💼 Skills
 
 - 🔐 **Cybersecurity** — ![](https://img.shields.io/badge/85%25-blueviolet)
@@ -98,16 +85,14 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 - 🐧 **Linux** — ![](https://img.shields.io/badge/53%25-grey)
 - 🎨 **Frontend Development** — ![](https://img.shields.io/badge/45%25-pink)
 
-
 ---
 
 ## 🎓 Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics-Certificate-FA7343?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-Display%20Certification-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Display"/>
-  <img src="https://img.shields.io/badge/Google%20Ads-Video%20Certification-34A853?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads Video"/>
-  <img src="https://img.shields.io/badge/National%20Level%20Tech%20Fest-RCSS%20Ernakulam-DB4437?style=for-the-badge&logo=google-scholar&logoColor=white" alt="RCSS"/>
-  <img src="https://img.shields.io/badge/Zoople-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Zoople Flutter"/>
+  <img src="https://img.shields.io/badge/Google%20Ads-Display%20Certification-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/RCSS%20Ernakulam-National%20Level%20Tech%20Fest-DB4437?style=for-the-badge&logo=google-scholar&logoColor=white" alt="RCSS"/>
+  <img src="https://img.shields.io/badge/Zoople-Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Cert"/>
 </p>
 
 ---
@@ -116,28 +101,26 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 | Sl No | Project Name | Description | Link |
 |------:|--------------|-------------|------|
-| 1 | x | x | [View](#) |
-| 2 | x | x | [View](#) |
-| 3 | x | x | [View](#) |
-| 4 | x | x | [View](#) |
+| 1 | Project One | Short description here. | [View](#) |
+| 2 | Project Two | Short description here. | [View](#) |
+| 3 | Project Three | Short description here. | [View](#) |
+| 4 | Project Four | Short description here. | [View](#) |
+
+
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -154,7 +137,6 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
   <img src="https://komarev.com/ghpvc/?username=ashwinnbmenon&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
@@ -168,5 +150,3 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 ---
 
 <p align="center">✨ Thank you for visiting! Keep coding & stay curious ✨</p>
-
-
