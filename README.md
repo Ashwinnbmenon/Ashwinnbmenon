@@ -18,7 +18,7 @@ Hi — I'm **Ashwinn B Menon**, a Frontend Developer with a strong interest in *
 
 ## 🎖️ Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true" />
 </div>
 
 ---
@@ -112,15 +112,16 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinnbmenon&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinnbmenon&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwinnbmenon&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app?user=ashwinnbmenon&theme=radical&hide_border=true" />
 </p>
 
 ---
