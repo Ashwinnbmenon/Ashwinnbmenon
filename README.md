@@ -17,9 +17,9 @@ Hi — I'm **Ashwinn B Menon**, a Frontend Developer with a strong interest in *
 ---
 
 ## 🎖️ Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinnbmenon&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
