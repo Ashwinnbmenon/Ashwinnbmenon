@@ -1,4 +1,4 @@
-this is so bad make a new one best of best withotu issue
+
 <!-- Banner (Typing SVG) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=4000&color=FF6EC7&center=true&vCenter=true&width=900&lines=ASHWINN+B+MENON;Frontend+Developer+%7C+Cybersecurity+Enthusiast;Crafting+Soft+%26+Beautiful+Web+Experiences" alt="ASHWINN B MENON"/>
