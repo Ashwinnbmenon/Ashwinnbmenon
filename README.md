@@ -48,15 +48,15 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 <p align="left">
   <a href="https://linkedin.com/in/ashwinn-b-menon">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-touch-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <br/>
   <a href="https://tryhackme.com/p/ashwinncyber">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-b30000?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-touch-b30000?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
   </a>
   <br/>
   <a href="https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-touch-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
 </p>
 
