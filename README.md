@@ -102,7 +102,7 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 | Sl No | Project Name | Description | Link |
 |------:|--------------|-------------|------|
-| 1 | Project One | Short description here. | [View](#) |
+| 1 | Cybersecurity-Fundamentals-Lab | Documenting my 5-month cybersecurity journey including networking, OSINT, security tools, and common cyber attacks.. | [View](https://github.com/Ashwinnbmenon/Cybersecurity-Fundamentals-Lab) |
 | 2 | Project Two | Short description here. | [View](#) |
 | 3 | Project Three | Short description here. | [View](#) |
 | 4 | Project Four | Short description here. | [View](#) |
