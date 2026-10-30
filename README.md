@@ -102,8 +102,8 @@ Ethical Hacking · Pentesting · Linux & Windows Hardening · Web App Vulnerabil
 
 | Sl No | Project Name | Description | Link |
 |------:|--------------|-------------|------|
-| 1 | Cybersecurity-Fundamentals-Lab | Documenting my 2-month cybersecurity journey including networking, OSINT, security tools, and common cyber attacks.. | [View](https://github.com/Ashwinnbmenon/Cybersecurity-Fundamentals-Lab) |
-| 2 |ATM PYTHON | x | [View](https://github.com/Ashwinnbmenon/ATM-Python-project) |
+| 1 | Cybersecurity-Fundamentals-Lab | Documenting my 2-month cybersecurity journey including networking, OSINT, security tools. | [View](https://github.com/Ashwinnbmenon/Cybersecurity-Fundamentals-Lab) |
+| 2 |ATM PYTHON | A Python-based ATM banking system featuring secure PIN authentication, balance checking, deposits, withdrawals, and transaction validation using OOP concepts. | [View](https://github.com/Ashwinnbmenon/ATM-Python-project) |
 | 3 | Project Three | y. | [View](#) |
 | 4 | Project Four | z. | [View](#) |
 
