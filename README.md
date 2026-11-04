@@ -67,6 +67,7 @@ I am a **frontend developer** with a strong interest in **cybersecurity** and **
 |:--------|:------------|:------|:----:|
 | **Cybersecurity Fundamentals Lab** | Two-month cybersecurity journey documenting networking, OSINT and security tooling. | `Linux` `Networking` `OSINT` | [View](https://github.com/Ashwinnbmenon/Cybersecurity-Fundamentals-Lab) |
 | **ATM Python** | OOP-based ATM system with secure PIN authentication, deposits, withdrawals and transaction validation. | `Python` `OOP` | [View](https://github.com/Ashwinnbmenon/ATM-Python-project) |
+| **TrafficPulse-AI** | TrafficPulse AI is an ML-based web app that predicts traffic congestion. | `Python` `SQL` | [View](https://github.com/Ashwinnbmenon/TrafficPulse-AI) |
 
 ---
 
