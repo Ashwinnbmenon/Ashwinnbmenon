@@ -14,7 +14,6 @@
   <a href="https://ashwinnbmenonportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/ashwinn-b-menon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://tryhackme.com/p/ashwinncyber"><img src="https://img.shields.io/badge/TryHackMe-1E293B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-  <a href="https://www.youtube.com/channel/UC9KW9IN103e4WBcl-rr91nA"><img src="https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:ashwinnbmenon58@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -24,14 +23,6 @@
 
 I am a **frontend developer** with a strong interest in **cybersecurity** and **ethical hacking**. I design user-centered interfaces and apply secure development practices and penetration testing fundamentals to build safer applications. I also work with **Python, Jupyter Notebook and Streamlit** to prototype data tools and security utilities.
 
-```text
-role         : Frontend Developer
-focus        : React · Next.js · Application Security
-learning     : Ethical Hacking · Pentesting · Data Apps
-location     : Kerala, India
-open_to      : Collaboration · Internships · Open Source
-```
-
 ---
 
 ## Tech Stack
@@ -39,7 +30,7 @@ open_to      : Collaboration · Internships · Open Source
 **Languages & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,tailwind&theme=dark" alt="Languages and frontend"/>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nextjs,&theme=dark" alt="Languages and frontend"/>
 </p>
 
 **Data, Notebooks & Python Tooling**
