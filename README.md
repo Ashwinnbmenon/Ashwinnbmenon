@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Ashwinn%20B%20Menon&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Data Science %20AI , ML &descSize=18&descAlignY=58&animation=fadeIn" alt="Ashwinn B Menon"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:0EA5E9&text=Ashwinn%20B%20Menon&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Data%20Science%2C%20AI%2C%20ML&descSize=18&descAlignY=58&animation=fadeIn" alt="Ashwinn B Menon"/>
 </p>
 
 <!-- Typing animation -->
@@ -23,7 +23,7 @@
 
 I am a **frontend developer** with a strong interest in **cybersecurity** and **ethical hacking**. I design user-centered interfaces and apply secure development practices and penetration testing fundamentals to build safer applications. I also work with **Python, Jupyter Notebook and Streamlit** to prototype data tools and security utilities.
 
----
+
 
 ## Tech Stack
 
@@ -67,7 +67,7 @@ I am a **frontend developer** with a strong interest in **cybersecurity** and **
 |:--------|:------------|:------|:----:|
 | **Cybersecurity Fundamentals Lab** | Two-month cybersecurity journey documenting networking, OSINT and security tooling. | `Linux` `Networking` `OSINT` | [View](https://github.com/Ashwinnbmenon/Cybersecurity-Fundamentals-Lab) |
 | **ATM Python** | OOP-based ATM system with secure PIN authentication, deposits, withdrawals and transaction validation. | `Python` `OOP` | [View](https://github.com/Ashwinnbmenon/ATM-Python-project) |
-| **TrafficPulse-AI** | TrafficPulse AI is an ML-based web app that predicts traffic congestion. | `Python` `SQL` | [View](https://github.com/Ashwinnbmenon/TrafficPulse-AI) |
+| **TrafficPulse-AI** | TrafficPulse AI is an ML-based web app that predicts traffic congestion. | `Python` `OOP` | [View](https://github.com/Ashwinnbmenon/TrafficPulse-AI) |
 
 ---
 
